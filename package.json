@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/hellokelvin/eslint-config#readme",
   "dependencies": {
-    "@kelvin/eslint-config": "https://github.com/hellokelvin/eslint-config",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
     "@typescript-eslint/parser": "^4.16.1",
     "eslint": "^7.21.0",
