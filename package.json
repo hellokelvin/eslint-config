@@ -1,0 +1,23 @@
+{
+  "name": "@kelvin/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config used by the Kelvin team across projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellokelvin/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "The Kelvin Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hellokelvin/eslint-config/issues"
+  },
+  "homepage": "https://github.com/hellokelvin/eslint-config#readme"
+}
